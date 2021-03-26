@@ -1,4 +1,4 @@
-package Logic;
+package logic;
 
 /**
  * @author Nicolas BLANCHARD, Alan PERRON , Simon PROVOT
